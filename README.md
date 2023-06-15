@@ -1,5 +1,14 @@
 # Topsis
 A feature selection method
 
-![image](https://github.com/Archita-Shankar/Topsis/assets/121395581/fcb5c1a9-51e7-4b83-bc28-08f457da42eb)
-![Screenshot 2023-06-15 222144-3](https://github.com/Archita-Shankar/Topsis/assets/121395581/89304915-a8cf-4aa8-86cf-51b49b8e5771)
+<p><img align="left" src="https://github.com/Archita-Shankar/Topsis/assets/121395581/fcb5c1a9-51e7-4b83-bc28-08f457da42eb" alt="archita-shankar" /></p>
+
+
+
+![Screenshot 2023-06-15 222144-3](https://github.com/Archita-Shankar/Topsis/assets/121395581/54b3c9c4-d55e-4bcd-b650-1c9aa3a59698)
+
+
+
+
+
+
